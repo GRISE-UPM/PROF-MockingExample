@@ -1,2 +1,2 @@
-# PROF-Mocking
-Mocking exercise #1
+# PROF-MockingExample
+Mocking example for classroom
